@@ -1,0 +1,15 @@
+D:\My Documents\GitHub\ValheimMods\Minions\Minions\obj\Debug\net461\Minions.csproj.AssemblyReference.cache
+D:\My Documents\GitHub\ValheimMods\Minions\Minions\obj\Debug\net461\Minions.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\GitHub\ValheimMods\Minions\Minions\obj\Debug\net461\Minions.AssemblyInfoInputs.cache
+D:\My Documents\GitHub\ValheimMods\Minions\Minions\obj\Debug\net461\Minions.AssemblyInfo.cs
+D:\My Documents\GitHub\ValheimMods\Minions\Minions\obj\Debug\net461\Minions.csproj.CoreCompileInputs.cache
+D:\My Documents\GitHub\ValheimMods\Minions\Minions\bin\Debug\net461\Minions.dll
+D:\My Documents\GitHub\ValheimMods\Minions\Minions\bin\Debug\net461\Minions.pdb
+D:\My Documents\GitHub\ValheimMods\Minions\Minions\bin\Debug\net461\0Harmony.dll
+D:\My Documents\GitHub\ValheimMods\Minions\Minions\bin\Debug\net461\assembly_valheim.dll
+D:\My Documents\GitHub\ValheimMods\Minions\Minions\bin\Debug\net461\BepInEx.dll
+D:\My Documents\GitHub\ValheimMods\Minions\Minions\bin\Debug\net461\UnityEngine.CoreModule.dll
+D:\My Documents\GitHub\ValheimMods\Minions\Minions\bin\Debug\net461\UnityEngine.dll
+D:\My Documents\GitHub\ValheimMods\Minions\Minions\obj\Debug\net461\Minions.csproj.CopyComplete
+D:\My Documents\GitHub\ValheimMods\Minions\Minions\obj\Debug\net461\Minions.dll
+D:\My Documents\GitHub\ValheimMods\Minions\Minions\obj\Debug\net461\Minions.pdb
