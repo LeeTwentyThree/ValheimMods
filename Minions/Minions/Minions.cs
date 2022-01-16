@@ -12,7 +12,7 @@ namespace Minions
 
         private readonly Harmony harmony = new Harmony(modGUID);
 
-        void Awake()
+        public void Awake()
         {
             harmony.PatchAll();
         }
